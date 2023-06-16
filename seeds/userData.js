@@ -1,6 +1,5 @@
-// Importing Post model from ../models directory
-const User  = require("../models/User");
-// Array of dummy blog post data
+const { User } = require("../models");
+
 const userData = [
   {
     username: "user1",
@@ -29,7 +28,7 @@ const userData = [
   },
 
 ];
-// Function to seed posts table with dummy data using bulkCreate method
+
 const seedUsers = () => User.bulkCreate(userData);
-// Exporting seedPosts function for use in other files
+
 module.exports = seedUsers;
