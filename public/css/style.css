@@ -1,0 +1,46 @@
+body{
+ font-family: monospace;
+}
+
+.titleDate{
+      margin-bottom: 70px;
+      color: lightgray;
+}
+.postBlog{
+    font-size: 20px;
+    padding-bottom: 35px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 75px;
+    
+}
+.new-comment-form{
+
+    margin-bottom: 80px;
+
+}
+.new-comment-form textarea{
+    font-size: 19px;
+    font-weight: bold;
+}
+.submitBtn{
+    width: 300px;
+}
+
+.commentDiv{
+    margin: 20px;
+    border-bottom: 2px solid grey;
+    border-left: 2px solid grey;
+    
+}
+.commentText{
+font-size: 20px;
+padding-left: 30px;
+}
+.commentDate{
+    color: lightgray;
+    padding-left: 10px;
+}
+.post-container{
+    border: 1px solid lightgray;
+    padding: 20px;
+}
