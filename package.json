@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sam-dejesus/Tech-Blog-Full-Stack-Application#readme",
   "dependencies": {
+    "common": "^0.2.5",
     "connect-session-sequelize": "^7.0.4",
     "debug": "^4.3.4",
     "dotenv": "^8.6.0",
