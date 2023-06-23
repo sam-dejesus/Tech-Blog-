@@ -9,6 +9,6 @@ to use the website a user must first create an account. if a user were to try to
 ![homepage](<images/localhost_3001_(Nest Hub).png>)
 ![dashboard](<images/localhost_3001_dashboard(Nest Hub).png>)
 ![post](<images/localhost_3001_post_1(Nest Hub).png>)
-
+link to the deployed site: https://binary-babel-47599b309b8f.herokuapp.com/
 ## License
  please refer to the repo
